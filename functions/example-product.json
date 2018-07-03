@@ -1,0 +1,242 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://www.underarmour.com/v0.0/product/US/styles/pcid1219736"
+    },
+    "web:canonical": {
+      "href": "https://www.underarmour.com/en-us/mens-tactical-stealth-beanie/pcid1219736"
+    },
+    "web:locale": {
+      "href": "https://www.underarmour.com/en-us/mens-tactical-stealth-beanie/pcid1219736"
+    }
+  },
+  "styleCode": "1219736",
+  "site": "US",
+  "isClearance": true,
+  "isCustomizable": false,
+  "category": "Men’s Headwear",
+  "content": {
+    "name": "Men's Tactical Stealth Beanie",
+    "shortName": "Tactical Stealth Beanie",
+    "bullets": [],
+    "categoryName": "Men’s Headwear"
+  },
+  "properties": {
+    "rating": {
+      "average": 4.391300201416016,
+      "count": 23
+    },
+    "hasVideo": false,
+    "elevatedContent": "",
+    "promotionBanner": "",
+    "class": "Accessories",
+    "isEgiftCard": false,
+    "isGiftCard": false,
+    "fabricLegals": []
+  },
+  "sizeCodes": [],
+  "priceRange": {
+    "base": {
+      "min": 14.99,
+      "max": 17.99
+    },
+    "msrp": {
+      "min": 24.99,
+      "max": 24.99
+    },
+    "currency": "USD"
+  },
+  "materials": [
+    {
+      "_links": {
+        "web:canonical": {
+          "href": "https://www.underarmour.com/en-us/mens-tactical-stealth-beanie/pcid1219736"
+        },
+        "web:locale": {
+          "href": "https://www.underarmour.com/en-us/mens-tactical-stealth-beanie/pcid1219736-390"
+        }
+      },
+      "materialCode": "1219736-390",
+      "name": "",
+      "displayName": "",
+      "strikeThru": true,
+      "hasVideo": false,
+      "rank": 1,
+      "discount": {
+        "employee": true,
+        "vip": true
+      },
+      "alert": {},
+      "color": {
+        "primary": {
+          "name": "Marine OD Green",
+          "colorCode": "MOD",
+          "hex": "333300"
+        },
+        "secondary": {},
+        "logo": {
+          "name": "Marine OD Green",
+          "colorCode": "MOD",
+          "hex": "333300"
+        },
+        "chip": {
+          "cropParams": {
+            "startX": 0.24642857142857144,
+            "startY": 0.5923438002357733,
+            "xWidth": 0.10000000000000003,
+            "yHeight": 0.1
+          },
+          "image": "1219736-390_F"
+        }
+      },
+      "assets": [
+        {
+          "recipeCode": "standard-10pad",
+          "image": "1219736-390_F",
+          "view": "f",
+          "rank": 0
+        },
+        {
+          "recipeCode": "standard-10pad",
+          "image": "1219736-390_B",
+          "view": "b",
+          "rank": 1
+        }
+      ],
+      "availableForSale": true,
+      "orderQuantityLimit": -1
+    },
+    {
+      "_links": {
+        "web:canonical": {
+          "href": "https://www.underarmour.com/en-us/mens-tactical-stealth-beanie/pcid1219736"
+        },
+        "web:locale": {
+          "href": "https://www.underarmour.com/en-us/mens-tactical-stealth-beanie/pcid1219736-001"
+        }
+      },
+      "materialCode": "1219736-001",
+      "name": "",
+      "displayName": "",
+      "strikeThru": true,
+      "hasVideo": false,
+      "rank": 3,
+      "discount": {
+        "employee": true,
+        "vip": true
+      },
+      "alert": {},
+      "color": {
+        "primary": {
+          "name": "Black ",
+          "colorCode": "BLK",
+          "hex": "231F20"
+        },
+        "secondary": {},
+        "logo": {
+          "name": "Black ",
+          "colorCode": "BLK",
+          "hex": "231F20"
+        },
+        "chip": {
+          "cropParams": {
+            "startX": 0.24642857142857144,
+            "startY": 0.5923438002357733,
+            "xWidth": 0.10000000000000003,
+            "yHeight": 0.1
+          },
+          "image": "1219736-001_F"
+        }
+      },
+      "assets": [
+        {
+          "recipeCode": "standard-10pad",
+          "image": "1219736-001_F",
+          "view": "default",
+          "rank": 0
+        },
+        {
+          "recipeCode": "standard-10pad",
+          "image": "1219736-001_Beanies_NT",
+          "view": "beanies_nt",
+          "rank": 5
+        }
+      ],
+      "availableForSale": true,
+      "orderQuantityLimit": -1
+    },
+    {
+      "_links": {
+        "web:canonical": {
+          "href": "https://www.underarmour.com/en-us/mens-tactical-stealth-beanie/pcid1219736"
+        },
+        "web:locale": {
+          "href": "https://www.underarmour.com/en-us/mens-tactical-stealth-beanie/pcid1219736-465"
+        }
+      },
+      "materialCode": "1219736-465",
+      "name": "",
+      "displayName": "",
+      "strikeThru": true,
+      "hasVideo": false,
+      "rank": 10,
+      "discount": {
+        "employee": true,
+        "vip": true
+      },
+      "alert": {},
+      "color": {
+        "primary": {
+          "name": "Dark Navy Blue ",
+          "colorCode": "DNB",
+          "hex": "003366"
+        },
+        "secondary": {},
+        "logo": {
+          "name": "Dark Navy Blue ",
+          "colorCode": "DNB",
+          "hex": "003366"
+        },
+        "chip": {
+          "cropParams": {
+            "startX": 0.24642857142857144,
+            "startY": 0.5923438002357733,
+            "xWidth": 0.10000000000000003,
+            "yHeight": 0.1
+          },
+          "image": "1219736-465"
+        }
+      },
+      "assets": [
+        {
+          "recipeCode": "standard-10pad",
+          "image": "1219736-465",
+          "view": "default",
+          "rank": 0
+        }
+      ],
+      "availableForSale": true,
+      "orderQuantityLimit": -1
+    }
+  ],
+  "availableForSale": true,
+  "alert": {},
+  "preorderFlag": false,
+  "badges": {
+    "top": "",
+    "secondary": "",
+    "award": ""
+  },
+  "facets": [
+    {
+      "name": "UAP"
+    },
+    {
+      "name": "Brand"
+    }
+  ],
+  "deliveryTimeline": "",
+  "productAccess": [],
+  "metaDescription": "",
+  "orderQuantityLimit": -1
+}

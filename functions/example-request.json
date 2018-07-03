@@ -1,0 +1,109 @@
+{
+  "responseId": "e17b903d-0d85-424d-a783-94e6518c12bc",
+  "quer\r\nyResult": {
+    "queryText": "how much are beanies",
+    "action": "PRODUCT_PRICE",
+    "parameters": {
+      "product_description": "beanies"
+    },
+    "al\r\nlRequiredParamsPresent": true,
+    "outputContexts": [
+      {
+        "name": "projects/underarmourproducts-50402/agent/sessions/1514837830085/\r\ncontexts/actions_capability_screen_output",
+        "parameters": {
+          "product_description": "beanies",
+          "product_description.original": "beanies"
+        }
+      },
+      {
+        "name": "projects/underarmourproducts-50402/agent/sessions/1514837830085/contexts/google_assistant_input_typ\r\ne_voice",
+        "parameters": {
+          "product_description": "beanies",
+          "product_description.original": "beanies"
+        }
+      },
+      {
+        "name": "projects/unde\r\nrarmourproducts-50402/agent/sessions/1514837830085/contexts/actions_capability_audio_output",
+        "parameters": {
+          "product_desc\r\nription": "beanies",
+          "product_description.original": "beanies"
+        }
+      },
+      {
+        "name": "projects/underarmourproducts-50402/agent/sessions\r\n/1514837830085/contexts/actions_capability_web_browser",
+        "parameters": {
+          "product_description": "beanies",
+          "product_descripti\r\non.original": "beanies"
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/underarmourproducts-50402/agent/intents/aacf9786-a912-4424-b87b-dfa\r\nc9f3c585e",
+      "displayName": "Lookup Product Price"
+    },
+    "intentDetectionConfidence": 1,
+    "diagnosticInfo": {},
+    "languageCode": "en-us\r\n"
+  },
+  "originalDetectIntentRequest": {
+    "source": "google",
+    "version": "2",
+    "payload": {
+      "isInSandbox": true,
+      "surface": {
+        "capabilities\r\n": [
+          {
+            "name": "actions.capability.SCREEN_OUTPUT"
+          },
+          {
+            "name": "actions.capability.AUDIO_OUTPUT"
+          },
+          {
+            "name": "actions.capability.WE\r\nB_BROWSER"
+          }
+        ]
+      },
+      "inputs": [
+        {
+          "rawInputs": [
+            {
+              "query": "how much are beanies",
+              "inputType": "VOICE"
+            }
+          ],
+          "arguments": [
+            {
+              "rawText": "how\r\n much are beanies",
+              "textValue": "how much are beanies",
+              "name": "text"
+            }
+          ],
+          "intent": "actions.intent.TEXT"
+        }
+      ],
+      "user": {
+        "lastSeen\r\n": "2018-01-01T20:12:43Z",
+        "locale": "en-US",
+        "userId": "ABwppHFqTE94d6dx2glwmyurSpf-3gDR1tMvyBD1ZTd6LHiIU4ar5ROBWIE5Ww9DPLN0\r\n4qD2ESCMtIwzMMFr3GMfNp2fXZbSXA"
+      },
+      "conversation": {
+        "conversationId": "1514837830085",
+        "type": "ACTIVE",
+        "conversationToken": "[\r\n]"
+      },
+      "availableSurfaces": [
+        {
+          "capabilities": [
+            {
+              "name": "actions.capability.SCREEN_OUTPUT"
+            },
+            {
+              "name": "actions.capability.AUDIO_\r\nOUTPUT"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "session": "projects/underarmourproducts-50402/agent/sessions/1514837830085"
+}
